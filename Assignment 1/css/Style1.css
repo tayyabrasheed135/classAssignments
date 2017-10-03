@@ -1,0 +1,25 @@
+.back1{
+	background-image: url(../images/back2.jpg);
+}
+.back2{
+	background-image: url(../images/snow.jpg);
+}
+.hbar{
+	font-size: 20px;
+	font-weight: bold;
+}
+.h1{
+	font-size: 70px;
+	font-family: Helvetica;
+	font-weight: bolder;
+	color: red;
+}
+.pd{
+	font-size: 60px;
+	font-family: Helvetica;
+	color: black;
+}
+.c1{
+	width: 200px;
+	height: 100px;
+}
